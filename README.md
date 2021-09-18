@@ -1,6 +1,6 @@
 
 # Contents
-- [Awesome Attacks on Machine Learning Privacy   ![Awesome](https://awesome.re)](#awesome-attacks-on-machine-learning-privacy-img-srchttpsawesomerebadgesvg-altawesome)
+
 - [Contents](#contents)
 - [Surveys and Overviews](#surveys-and-overviews)
 - [Privacy Testing Tools](#privacy-testing-tools)
